@@ -1,4 +1,4 @@
-# require 'active_admin'
+require 'active_admin'
 
 module ActiveAdmin
   module MongoMapper
