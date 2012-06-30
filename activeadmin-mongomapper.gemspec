@@ -17,6 +17,6 @@ Gem::Specification.new do |gem|
   gem.license       = 'MIT'
 
   gem.add_runtime_dependency 'mongo_mapper',     '~> 0.11.1'
-  gem.add_runtime_dependency 'mm-devise',        '~> 1.2'
+  gem.add_runtime_dependency 'mm-devise',        '>= 1.2'
   gem.add_runtime_dependency 'activeadmin',      '~> 0.4'
 end
